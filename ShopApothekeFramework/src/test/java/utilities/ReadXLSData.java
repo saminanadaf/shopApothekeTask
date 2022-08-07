@@ -1,4 +1,4 @@
-package utilities;
+/*package utilities;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -13,7 +13,7 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 //This code is to read test data from excel file
 
-/*
+
 public class ReadXLSData {
 	
 public static void main(String[] args) throws EncryptedDocumentException, IOException {
